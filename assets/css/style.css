@@ -7,3 +7,10 @@
 body {
     background-color: burlywood;
 }
+
+section#hero {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
